@@ -12,7 +12,7 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
 ---
 
 ## About project
-
+[Pig game](https://storied-yeot-96e25c.netlify.app)
 
 I created this project within the JavaScript course by Jonas Schmedtmann that I followed.
 
